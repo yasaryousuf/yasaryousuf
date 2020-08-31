@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 ![Hi, I'm Yasar Yousuf 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ PHP JS ❤️](https://github.com/yasaryousuf/yasaryousuf/raw/master/yasaryousuf.gif)
 
+
 ### 👨🏻‍💻 About Me:
 
 :computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/>
 :briefcase: &nbsp;&nbsp; Currently working at [Tikweb](https://tikweb.com).<br/>
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
-
-[Twitter](https://twitter.com/Yasar_Yousuf) • [LinkedIn](https://www.linkedin.com/in/yasaryousuf/)
-
 
 
 ### 🛠 Languages and Tools:
@@ -45,8 +43,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-<br>
+
 ### 🤝🏻 Connect with Me:
 
 <p align="center">
