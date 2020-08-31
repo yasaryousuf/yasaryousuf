@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/>
+:briefcase: &nbsp;&nbsp; Currently working at [Tikweb](https://tikweb.com).<br/>
+:mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
+
+[Twitter](https://twitter.com/Yasar_Yousuf) • [LinkedIn](https://www.linkedin.com/in/yasaryousuf/)
