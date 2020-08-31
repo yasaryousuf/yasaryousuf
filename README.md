@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Hi, I'm Yasar Yousuf 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ PHP JS ❤️](https://github.com/yasaryousuf/yasaryousuf/raw/master/yasaryousuf.gif)
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me:
 
 :computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/>
 :briefcase: &nbsp;&nbsp; Currently working at [Tikweb](https://tikweb.com).<br/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me:
 
 <p align="center">
 <a href="hhttps://www.linkedin.com/in/yasaryousuf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasar%20Yousuf-blue?style=flat-square&logo=linkedin"></a>
