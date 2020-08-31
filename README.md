@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Hi, I'm Yasar Yousuf 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ PHP JS ❤️](https://github.com/yasaryousuf/yasaryousuf/raw/master/ezgif.com-crop.gif)
 
 :computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/>
 :briefcase: &nbsp;&nbsp; Currently working at [Tikweb](https://tikweb.com).<br/>
