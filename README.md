@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 ### 🤝🏻 Connect with Me:
 
 <p align="center">
-<a href="hhttps://www.linkedin.com/in/yasaryousuf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasar%20Yousuf-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yasaryousuf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasar%20Yousuf-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/Yasar_Yousuf"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Yasar_Yousuf-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/yasaryousuf/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yasaryousuf-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yousuf802@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yousuf802@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
