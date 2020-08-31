@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [Twitter](https://twitter.com/Yasar_Yousuf) • [LinkedIn](https://www.linkedin.com/in/yasaryousuf/)
 
-<br />
+
 
 ### Languages and Tools:
 
